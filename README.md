@@ -1,6 +1,6 @@
 # Modern Portfolio Website
 
-A sleek, modern portfolio website for developers and designers built with HTML, CSS, and JavaScript.
+A sleek, modern portfolio website for developers built with HTML, CSS, and JavaScript.
 
 ## Features
 
